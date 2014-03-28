@@ -1,4 +1,5 @@
 # TituloEleitorUtils
+[![Gem Version](https://badge.fury.io/rb/titulo_eleitor_utils.png)](http://badge.fury.io/rb/titulo_eleitor_utils)
 [![Build Status](https://travis-ci.org/jacksonpires/titulo_eleitor_utils.svg?branch=master)](https://travis-ci.org/jacksonpires/titulo_eleitor_utils)
 
 TituloEleitorUtils é uma suíte de funcionalidades para Título de Eleitor.
