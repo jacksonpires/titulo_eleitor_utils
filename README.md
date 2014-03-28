@@ -93,6 +93,10 @@ Também é possível usar métodos em português:
     TituloEleitorUtils.uf_do_titulo_eleitor("759026311727") => # "TO"
     "759026311727".uf_do_titulo_eleitor => # "TO"
 
+## Recomende
+
+Gostou dessa gem? Recomende-me no [Working With Rails](http://www.workingwithrails.com/people/148426)!
+
 ## Contribuindo
 
 1. Faça um Fork
