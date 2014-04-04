@@ -2,7 +2,7 @@
 [![Gem Version](https://badge.fury.io/rb/titulo_eleitor_utils.png)](http://badge.fury.io/rb/titulo_eleitor_utils)
 [![Build Status](https://travis-ci.org/jacksonpires/titulo_eleitor_utils.svg?branch=master)](https://travis-ci.org/jacksonpires/titulo_eleitor_utils)
 [![Code Climate](https://codeclimate.com/github/jacksonpires/titulo_eleitor_utils.png)](https://codeclimate.com/github/jacksonpires/titulo_eleitor_utils)
-[![Coverage](https://codeclimate.com/github/jacksonpires/titulo_eleitor_utils/coverage.png)](https://codeclimate.com/github/jacksonpires/titulo_eleitor_utils/coverage.png)
+[![Coverage](https://codeclimate.com/github/jacksonpires/titulo_eleitor_utils/coverage.png)](https://codeclimate.com/github/jacksonpires/titulo_eleitor_utils)
 
 TituloEleitorUtils é uma suíte de funcionalidades para Título de Eleitor.
 O TituloEleitorUtils é capaz de gerar números de Título de Eleitor para testes no formado tradicional ou apenas numérico, verifica a qual UF o Título de Eleitor pertence, testa se determinado número de Título de Eleitor é válido, gera dígitos verificadores para determinado número candidato a Título de Eleitor, dentre outras coisas.
