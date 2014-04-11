@@ -9,6 +9,13 @@ O TituloEleitorUtils é capaz de gerar números de Título de Eleitor para teste
 
 *PS: Devido à inconsistência entre as formatações/máscaras usadas para Título de Eleitor em todo território nacional, optamos por usar uma formatação/máscara próxima à que Justiça Eleitoral usa nos comprovantes de votação. Nossa formatação/máscara será ####.####.####, visto que o título eleitoral é formado por 12 dígitos.*
 
+## Compatibilidade
+
+O TituloEleitorUtils usa o Travis-CI para efetuar testes em diferentes versões do Ruby. As versões testadas e aprovadas, por enquanto, são:
+
+* MRI 1.9.2, 1.9.3, 2.0.0, 2.1.0
+* JRuby 1.9.x
+
 ## Instalação
 
 Adicione essa linha na Gemfile da sua aplicação:
