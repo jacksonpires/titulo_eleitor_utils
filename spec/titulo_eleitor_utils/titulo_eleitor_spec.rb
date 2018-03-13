@@ -8,7 +8,7 @@ describe TituloEleitorUtils do
       expect(titulo_eleitor.numbers.size).to eql(12)
     end
 
-    it "#initialize - Fixnum" do
+    it "#initialize - Integer" do
       titulo_eleitor = TituloEleitorUtils::TituloEleitor.new(759026311727)
       expect(titulo_eleitor.numbers).to be_a_kind_of(Array)
       expect(titulo_eleitor.numbers.size).to eql(12)
